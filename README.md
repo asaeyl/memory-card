@@ -9,4 +9,4 @@
 
 
 ## Future work
-* add levels and congratulation when the game is done
+* add levels and congratulation windows appear when the game is done
